@@ -16,7 +16,7 @@ const screens = {
     navigationOptions: {
       title: 'Review Details',
       //headerStyle: { backgroundColor: '#eee' }
-    }
+     }
   },
 };
 
